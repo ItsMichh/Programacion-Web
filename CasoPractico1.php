@@ -1,21 +1,3 @@
-/*
-    CASO PRACTICO
-
-    Un profesor tiene 10 alumnos a los cuales les debe poder capturar 
-    su calificacion. Al enviar la informacion, el profesor obtiene 
-    las siguientes estadisticas: 
-    - Aprovechamiento General. (Promedio)
-    - % de Aprobados y Reprobados.
-    - Peor y Mejor calificacion.
-    - Alumnos en "Area de oportunidad".
-    * Los alumnos con NP NO deben contabilizarse, pero si notificarse.
-
-    ENTREGA: Sesion Teorica
-    Individua o Parejas
-    Infinityfree (hosting) o en una laptop (no prestable) con IIS
-    Codigo fuente debe estar en GitHub
-*/
-
 <?php
     $alumnos = ["Azucena","Araceli","Amalia","Azul","Areli","Amanda","Ariana", "Belinda","Mia","Imelda"];
     $calificaciones = ["0","1","2","3","4","5","6","7","8","9","10","NP"];
@@ -50,4 +32,5 @@
         </form>
     </body>
 </html>
+
 
