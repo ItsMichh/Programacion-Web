@@ -53,7 +53,7 @@ $porRep = ($valid > 0) ? ($reprobados / $valid) * 100 : 0;
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Estadísticas de Calificaciones</title>
+    <title>Calificaciones</title>
 </head>
 <body>
     <h1>Estadísticas Generales</h1>
@@ -86,4 +86,5 @@ $porRep = ($valid > 0) ? ($reprobados / $valid) * 100 : 0;
     <a href="CasoPractico1.php">Volver</a>
 </body>
 </html>
+
 
